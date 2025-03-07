@@ -1,4 +1,5 @@
-#!/usr/bin/env sh
+Shaghayegh#!/shagha_kheiri@yahoo.com
+usr/bin/env sh
 
 STAGED=$(git diff --cached --name-only)
 
